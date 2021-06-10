@@ -11,6 +11,6 @@ A Halloween theme card matching game by HTML, CSS and JavaScript.
 * OOP programming. 
 * Game strategy planning. 
 
-## How to play? 
-Open the `index.html` file in the browser. 
+## Want to Play? 
+Check out [here](https://card-matching000.herokuapp.com/). 
 
